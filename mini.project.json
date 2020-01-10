@@ -1,0 +1,6 @@
+{
+  "enableDistFileMinify": false,
+  "component2": false,
+  "es6": true,
+  "enableParallelLoader": false
+}
